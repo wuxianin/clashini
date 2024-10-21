@@ -4,10 +4,10 @@
 
 # 国外DNS
 DOMAIN-SUFFIX,hga025.com,香港-自动,no-resolve
-DOMAIN-SUFFIX,hga030.com,香港-自动,no-resolve
+DOMAIN-SUFFIX,hga030.com,日本-自动,no-resolve
 DOMAIN-SUFFIX,hga035.com,香港-自动,no-resolve
 DOMAIN-SUFFIX,mos077.com,香港-自动,no-resolve
-DOMAIN-SUFFIX,49217.com,香港-自动,no-resolve
+DOMAIN-SUFFIX,49217.com,日本-自动,no-resolve
 DOMAIN-SUFFIX,13297.com,香港-自动,no-resolve
 
 #IP-CIDR,8.8.8.8/32,no-resolve
