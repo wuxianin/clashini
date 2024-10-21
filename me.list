@@ -4,7 +4,7 @@
 
 # 国外DNS
 DOMAIN-SUFFIX,hga025.com,no-resolve
-DOMAIN-SUFFIX,hga030.com动,no-resolve
+DOMAIN-SUFFIX,hga030.com,no-resolve
 DOMAIN-SUFFIX,hga035.com,no-resolve
 DOMAIN-SUFFIX,mos077.com,no-resolve
 DOMAIN-SUFFIX,49217.com,no-resolve
