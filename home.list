@@ -1,6 +1,6 @@
 # IP段匹配
 #IP-CIDR,142.171.133.131/32,no-resolve
-IP-CIDR,10.10.10.0/24,home,no-resolve
+IP-CIDR,10.10.10.0/24,no-resolve
 
 # 国外DNS
 #DOMAIN-SUFFIX,hga025.com,香港-自动,no-resolve
