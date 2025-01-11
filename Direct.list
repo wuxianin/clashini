@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,v4.plex.tv,no-resolve
 DOMAIN-SUFFIX,*.amazonaws.com,no-resolve
 DOMAIN-SUFFIX,*.plex.direct,no-resolve
 DOMAIN-SUFFIX,*.eess.cc,no-resolve
+DOMAIN-SUFFIX,*.uuhh.cc,no-resolve
 
 # MyList
 # 域名后缀匹配
