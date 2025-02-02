@@ -7,6 +7,8 @@ metadata-static.plex.tv,no-resolve
 metadata.provider.plex.tv,no-resolve
 meta.plex.tv,no-resolve
 
+DOMAIN-SUFFIX,fishport.xyz
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
